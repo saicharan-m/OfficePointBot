@@ -1,0 +1,47 @@
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Bot Application1.dll.config
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Bot Application1.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Bot Application1.pdb
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Autofac.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Chronic.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Microsoft.Bot.Builder.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Microsoft.Bot.Connector.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Newtonsoft.Json.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\System.Net.Http.Formatting.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\System.Web.Http.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\System.Web.Http.WebHost.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Autofac.xml
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Microsoft.Bot.Builder.xml
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Microsoft.Bot.Connector.xml
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Newtonsoft.Json.xml
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\System.Net.Http.Formatting.xml
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\System.Web.Http.xml
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\System.Web.Http.WebHost.xml
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\obj\Release\OfficePointBot.csprojResolveAssemblyReference.cache
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\obj\Release\Bot Application1.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\obj\Release\Bot Application1.pdb
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Microsoft.Bot.Builder.Autofac.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Microsoft.IdentityModel.Logging.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Microsoft.Bot.Builder.Autofac.xml
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Microsoft.IdentityModel.Logging.xml
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\it\Microsoft.Bot.Builder.resources.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+E:\Working Folder\Projects\OfficePointBot\OfficePointBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
